@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const moment = require("moment");
 const client = new Discord.Client()
-const token = 5Zec3ZeojdMJAU0bM7uk28VTGm9lb2yl
+const token = 621648956413181952
 const prefix = "r."
 client.on('ready', () => {
   client.user.setActivity("Using commands |r.help to help") 
