@@ -171,4 +171,4 @@ client.on('message', msg => {
   }
 })		
 
-client.login('NjIxNjQ4OTU2NDEzMTgxOTUy.XZdBog.I6S_8pzXwOLIC2YC-11rgcMOcOk')
+client.login('process.env.token');
