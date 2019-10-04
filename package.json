@@ -1,0 +1,21 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "bufferutil": "^4.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.5.1",
+    "google-images": "^2.1.0",
+    "moment": "^2.24.0",
+    "peer": "^0.2.10",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
