@@ -169,14 +169,6 @@ client.on('message', msg => {
   if (msg.content === prefix + 'wooosh') {
     msg.reply('r/wooosh');
   }
-})
-client.on('message', msg => {
-	if (msg.content === prefix + 'test') {
-		client.on("message", function(message) {
-  "hi"
-});
- }
-})
-		
+})		
 
 client.login('NjIxNjQ4OTU2NDEzMTgxOTUy.XZMe5w.nWV9cdxIYd2o07hYKs-KjklmZpE')
