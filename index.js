@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const moment = require("moment");
 const client = new Discord.Client()
-const token = process.env.arcadia
+const token = NjIxNjQ4OTU2NDEzMTgxOTUy.XZdBog.I6S_8pzXwOLIC2YC-11rgcMOcOk
 const prefix = "r."
 client.on('ready', () => {
   client.user.setActivity("Using commands |r.help to help") 
@@ -171,4 +171,4 @@ client.on('message', msg => {
   }
 })		
 
-client.login('NjIxNjQ4OTU2NDEzMTgxOTUy.XZMe5w.nWV9cdxIYd2o07hYKs-KjklmZpE')
+client.login('NjIxNjQ4OTU2NDEzMTgxOTUy.XZdBog.I6S_8pzXwOLIC2YC-11rgcMOcOk')
