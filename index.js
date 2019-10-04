@@ -170,4 +170,4 @@ client.on('message', msg => {
   }
 })		
 
-client.login('process.env.token');
+client.login('NjIxNjQ4OTU2NDEzMTgxOTUy.XZdUOw.QpbP9NNBhjuAOZ4-mb5oCsqTsbM');
