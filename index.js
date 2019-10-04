@@ -1,6 +1,7 @@
 const Discord = require('discord.js');
 const moment = require("moment");
 const client = new Discord.Client()
+const token = process.env.arcadia
 const prefix = "r."
 client.on('ready', () => {
   client.user.setActivity("Using commands |r.help to help") 
