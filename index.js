@@ -179,4 +179,4 @@ client.on('message', msg => {
 })
 		
 
-client.login('process_env_token')
+client.login('NjIxNjQ4OTU2NDEzMTgxOTUy.XZMe5w.nWV9cdxIYd2o07hYKs-KjklmZpE')
